@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from the Right Honourable Ferdinando Lord Fairfax, to His Excellency Robert Earle of Essex. Relating his late prosperous successe against the popish army in the north, his expelling them from their workes, and forcing them to raise their siege from before the towne of Hull. Also certifying, how the enemy have fled to Beverley, and were forced to leave divers pieces of ordnance, much powder and ammunition behind them. Being upon the same day wherein the Earle of Manchester obtained the victory neere Horn-castle in Lincolnshire. Printed by his Excellencies speciall direction.</title>
+            <author>Fairfax, Ferdinando Fairfax, Baron, 1584-1648.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84628</idno>
+            <idno type="STC">Wing F119</idno>
+            <idno type="STC">Thomason E71_15</idno>
+            <idno type="STC">ESTC R11843</idno>
+            <idno type="EEBO-CITATION">99859148</idno>
+            <idno type="PROQUEST">99859148</idno>
+            <idno type="VID">111214</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84628)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111214)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 12:E71[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from the Right Honourable Ferdinando Lord Fairfax, to His Excellency Robert Earle of Essex. Relating his late prosperous successe against the popish army in the north, his expelling them from their workes, and forcing them to raise their siege from before the towne of Hull. Also certifying, how the enemy have fled to Beverley, and were forced to leave divers pieces of ordnance, much powder and ammunition behind them. Being upon the same day wherein the Earle of Manchester obtained the victory neere Horn-castle in Lincolnshire. Printed by his Excellencies speciall direction.</title>
+                  <author>Fairfax, Ferdinando Fairfax, Baron, 1584-1648.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Wright, in the Old-baily,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Octob. 18. 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hull (England) --  History --  Siege, 1643 --  Early works to 1800.</term>
+               <term>Lincolnshire (England) --  History --  Sources --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111214:1" rendition="simple:additions"/>
+            <p>A LETTER FROM The Right Honourable FERDINANDO Lord FAIRFAX, TO HIS EXCELLENCY ROBERT Earle of ESSEX.</p>
+            <p>Relating his late proſperous ſucceſſe againſt the popiſh Army in the North, his expelling them from their Workes, and forcing them to raiſe their ſiege from before the Towne of <hi>Hull.</hi>
+            </p>
+            <p>Alſo certifying, how the Enemy have fled to <hi>Beverley,</hi> and were forced to leave divers pieces of Ordnance, much Powder and Ammunition behind them.</p>
+            <p>Being upon the ſame day wherein the Earle of <hi>Mancheſter</hi> obtained the victory neere <hi>Horn-caſtle</hi> in <hi>Lincolnſhire.</hi>
+            </p>
+            <p>Printed by his Excellencies ſpeciall direction.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Iohn Wright,</hi> in the Old-baily, <hi>Octob.</hi> 18. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:111214:2"/>
+            <pb n="1" facs="tcp:111214:2"/>
+            <head>A Letter from the Right Honourable, FERDINANDO Lord <hi>Fairfax,</hi> To his Excellency, ROBERT Earle of <hi>Eſſex.</hi>
+            </head>
+            <opener>
+               <salute>May it pleaſe your Excellency,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">S</seg>Ince the laſt Ac<g ref="char:EOLhyphen"/>count, I gave your Excellency a few daies ſince, of our condition at <hi>Hull,</hi> on the fifth of this inſtant Sir <hi>John Meldram,</hi> that gallant Gentleman is happily arrived here, with foure hundred men from the Earle of
+<pb n="2" facs="tcp:111214:3"/>
+               <hi>Manchester,</hi> and two hundred and fifty men are ſince come come from Sir <hi>William Conſtable,</hi> but Sir <hi>William</hi> himſelfe is not yet here. Some little ſervice, I thanke God, we did on Monday morning laſt, what time the Enemy aſſaulted one of our out<g ref="char:EOLhyphen"/>workes, but was beaten backe with the loſſe of eleven or twelve men, and ſome Officers, without the loſſe of any of mine. Yeſterday, being the eleventh of this inſtant, I thought fit to draw forth what ſtrength I could well make, in a ſalley, to drive the Enemy from a new Worke that in the night hee had encroacht very neere us, on the Weſt ſide of the Towne, and it pleaſed God to give a bleſſing to the attempt. My men I devided into two bodies, under the com<g ref="char:EOLhyphen"/>mand
+<pb n="3" facs="tcp:111214:3"/>of Colonell <hi>Lambart,</hi> and Co<g ref="char:EOLhyphen"/>lonell <hi>Rainborow,</hi> Captaine of the Lyon, who brought ſome Sea-men for our aſſiſtants, and all under the command in chiefe for that ſervice of Sir <hi>John Meldram,</hi> whoſe va<g ref="char:EOLhyphen"/>lour and diſcretion with the other two Colonels throughout the whole action, I cannot mention without high commendation. A<g ref="char:EOLhyphen"/>bout nine of the clocke by an aſſault two ſeverall waies, the ſervice be<g ref="char:EOLhyphen"/>gun; for, the truth is, we could not take that early advantage that I de<g ref="char:EOLhyphen"/>ſired for ſuch an interpriſe: in a ſhort time we gained one of their workes, and aſſaulted them in another; and it was not long ere we were unhap<g ref="char:EOLhyphen"/>pily forc't to retreat, and the enemy recovered all againe. But through the goodneſſe of God my men were
+<pb n="4" facs="tcp:111214:4"/>ſoone rallyed, their ſpirits recove<g ref="char:EOLhyphen"/>red, and they ſuddenly repoſſes of the laſt worke, beate them out of all the reſt in that part, and got poſſeſ<g ref="char:EOLhyphen"/>ſion of one of their great Braſſe demy Cannon. The Enemy thus fled, and the ground ours, we drew that great Gunne out of danger of their repri<g ref="char:EOLhyphen"/>ſall: About two houres after our poſſeſſion of thoſe workes, the ene<g ref="char:EOLhyphen"/>my had drawne downe a full body of reſerves of Horſe, and Foot, from all their Quarters, their numbers we know not, but about 36 Colours ſome of our men could tell; with theſe they oppoſed our tired men, and that in truth with excellent re<g ref="char:EOLhyphen"/>ſolution, but it pleaſed God after two houres ſharpe encounter, or thereabouts, they left the Field; ſince that we have drawne into the Town
+<pb n="5" facs="tcp:111214:4"/>their great Demi-Cannon, one De<g ref="char:EOLhyphen"/>mi-Culverin, one Sacre, three Drakes, and one caſe of ſmall Pieces, ſome Armes, and a Carriage of great Bullet, beſides ſome Powder, which was made uſe of againſt them. This laſt night I finde they have drawne of the reſt of their Ordnance from their other Workes, and ſo are like to be at ſome farther diſtance from us, though I am informed, they in<g ref="char:EOLhyphen"/>tend to keepe a Garriſon at <hi>Beverley,</hi> and to raiſe ſome Works ſomewhat more remote from us, to keepe us from being ſo active as they believe vve vvould be, vvhen they cannot make us ſo paſſive as they vvould have us. However, my Lord, vve heartily and thankfully acknow<g ref="char:EOLhyphen"/>ledge the powerfull &amp; vviſe hand of our God in all this, deſire he ſhould
+<pb n="6" facs="tcp:111214:5"/>have the glory of all, and to ſend his providence ſtill, as occaſion ſhall be further offered; the event vvhereof your Excellency ſhall aſſuredly have an account of, vvith the firſt opportunity, by</p>
+            <closer>
+               <salute>My Lord,</salute> 
+               <signed>Your Excellencies moſt humble ſervant. <hi>FER. FAIRFAX</hi>
+               </signed>
+               <dateline>Kingſton <hi>ſuper</hi> Hull, <date>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> O<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>. 1643.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="license">
+            <opener>
+               <dateline>
+                  <date>Octob. 17. 1643.</date>
+               </dateline>
+            </opener>
+            <p>IT is his Excellencies pleaſure this Letter be forthwith printed.</p>
+            <closer>
+               <signed>
+                  <hi>John Baldwin,</hi> Secretary to his Excellence.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
